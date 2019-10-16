@@ -1,0 +1,6 @@
+#!/bin/sh
+
+# 2. Write a script which delete an ACTIVE user on the VM.
+# show users awk -F: '{print $1}' /etc/passwd
+
+deluser --remove-home 'name'

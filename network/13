@@ -1,0 +1,4 @@
+# 13. Thanks to the previous question and the reverse DNS find the name of your host
+# from 12 : host 10.112.7.6
+
+6.7.112.10.in-addr.arpa domain name pointer e1z2r7p6.42.us.org.

@@ -1,3 +1,7 @@
+# 11. Use the output of the previous command to find the name and IP address of the device that makes
+# the link between you (local network) and the outside world
+
 tracerout slash16.org
+
 # The name and IP that makes connection between local network
 
