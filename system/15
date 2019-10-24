@@ -1,0 +1,4 @@
+# 15. Find the command that kills the background command’s process
+
+# to kill : ps -eaf
+# and kill 'number'

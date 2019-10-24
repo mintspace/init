@@ -1,0 +1,8 @@
+# 14. Run the ‘tail -f /var/log/syslog‘ command in background
+
+tail -f /var/log/syslog &
+
+# ctr + z // bg
+# to kill : ps -eaf
+# and kill 'number'
+
